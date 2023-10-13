@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Reds</h1>
-<h3 align="center">I'm software engineer student</h3>
-
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Hi 👋, I'm Reds</h1>
+<h3 align="left">I'm software engineer student</h3>
 <p align="left">
 </p>
 
